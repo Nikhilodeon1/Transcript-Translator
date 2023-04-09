@@ -1,0 +1,4 @@
+(c) - Made by Nikhil on April 1st 2023
+status:
+    backend: 100% complete
+    frontend: 20% complete (html needs to be coded)
